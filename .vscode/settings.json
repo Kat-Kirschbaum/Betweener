@@ -1,6 +1,7 @@
 {
     "github.copilot.enable": {
-        "*": false
+        "*": false,
+        "python": true
     },
     "github.copilot.nextEditSuggestions.enabled": false,
     "editor.inlineSuggest.enabled": false
